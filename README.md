@@ -2,6 +2,8 @@
 
 Replace files globally by name
 
+Example: Replace all SVG images from the source directory `./tests/from` to the output directory `./tests/to`.
+
 ```
 npm i glob-file-replace -g
 
