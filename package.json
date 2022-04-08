@@ -1,6 +1,6 @@
 {
   "name": "glob-file-replace",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Replace files globally by name",
   "bin": {
     "glob-file-replace": "./index.js"
